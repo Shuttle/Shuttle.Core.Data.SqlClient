@@ -15,7 +15,9 @@
     <copyright>Copyright (c) {year}, Eben Roux</copyright>
     <tags>shuttle sqlclient</tags>
     <dependencies>
+      <dependency id="Shuttle.Core.Container" version="{Shuttle.Core.Container-version}" />
       <dependency id="Shuttle.Core.Contract" version="{Shuttle.Core.Contract-version}" />
+      <dependency id="Shuttle.Core.Data" version="{Shuttle.Core.Data-version}" />
       <dependency id="System.Data.SqlClient" version="{System.Data.SqlClient-version}" />
     </dependencies>
   </metadata>
