@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Shuttle.Core.Container" Version="10.0.2" />
     <PackageReference Include="Shuttle.Core.Contract" Version="10.0.0" />
     <PackageReference Include="Shuttle.Core.Data" Version="10.0.0" />
     <PackageReference Include="System.Data.SqlClient" Version="4.4.2" />
