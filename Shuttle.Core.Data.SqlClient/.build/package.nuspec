@@ -9,6 +9,7 @@
     <licenseUrl>https://github.com/shuttle/Shuttle.Core.Data.SqlClient/raw/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/shuttle/Shuttle.Core.Data.SqlClient</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/Shuttle/Shuttle.Core.Data.SqlClient/master/.media/logo.png</iconUrl>
+    <repository type="git" url="https://github.com/Shuttle/Shuttle.Core.SqlClient.git" />
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>IDbProviderFactories implementation for .Net Core.</description>
     <releaseNotes />
